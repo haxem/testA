@@ -10,6 +10,7 @@ namespace testA
         static void Main(string[] args)
         {
             string asd = "test"; 
+            aassdddfff
             Console.WriteLine("tERMİNAL " + asd);
         }
     }
