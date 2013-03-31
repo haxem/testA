@@ -9,6 +9,7 @@ namespace testA
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("tERMİNAL");
         }
     }
 }
