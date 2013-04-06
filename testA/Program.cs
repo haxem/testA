@@ -12,6 +12,7 @@ namespace testA
             string asd = "test"; 
             aassdddfff
             Console.WriteLine("tERMİNAL " + asd);
+			assdddd;
         }
     }
 }
