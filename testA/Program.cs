@@ -8,7 +8,7 @@ namespace testA
     class Program
     {
         static void Main(string[] args)
-        {
+        { aassdssas;
             string asd = "test"; 
             aassdddfff
             Console.WriteLine("tERMİNAL " + asd);
